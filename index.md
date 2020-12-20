@@ -1,7 +1,7 @@
 ### Currently:
-- Research assistant in the [EXTREMUM Project](https://dsv.su.se/en/research/research-areas/datascience/extremum-explainable-and-ethical-machine-learning-for-knowledge-discovery-from-medical-data-sources-1.442728) and member of the [Data Science Group](https://datascience.dsv.su.se/) at Stockholm University, Sweden
-- Research assistant and member of [Natural Language Processing Group](http://nlp.cs.aueb.gr/) at Athens University of Economics and Business, Greece
-- Teaching assistant in the M.Sc. in Data Science, Athens University of Economics and Business, Greece
+- Research assistant in the [EXTREMUM Project](https://dsv.su.se/en/research/research-areas/datascience/extremum-explainable-and-ethical-machine-learning-for-knowledge-discovery-from-medical-data-sources-1.442728) and member of the [Data Science Group](https://datascience.dsv.su.se/) at Stockholm University, Sweden.
+- Research assistant and member of [Natural Language Processing Group](http://nlp.cs.aueb.gr/) at Athens University of Economics and Business, Greece.
+- Teaching assistant in the M.Sc. in Data Science, Athens University of Economics and Business, Greece.
 
 ### Research Interests:
 Artificial intelligence and especially machine learning and deep learning methods for Natural Language Processing and Computer Vision.
