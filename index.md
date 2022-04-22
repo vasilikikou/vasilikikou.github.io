@@ -9,6 +9,7 @@ Previously, I was a research assistant in the [EXTREMUM Project](https://dsv.su.
 vasiliki.kougia [at] univie.ac.at
 
 
+
 ### Education:
 - **2018-2019: M.Sc. in Computer Science.** Athens University of Economics and Business, Greece. Thesis: [Medical image labeling and report generation](http://nlp.cs.aueb.gr/theses/kougia_msc_thesis.pdf)
 - **2012-2018: B.Sc. in Informatics.** Athens University of Economics and Business, Greece.
